@@ -1,0 +1,15 @@
+C:\Users\31020\source\repos\Interface_implementation\Interface_implementation\bin\Debug\net6.0\Interface_implementation.exe
+C:\Users\31020\source\repos\Interface_implementation\Interface_implementation\bin\Debug\net6.0\Interface_implementation.deps.json
+C:\Users\31020\source\repos\Interface_implementation\Interface_implementation\bin\Debug\net6.0\Interface_implementation.runtimeconfig.json
+C:\Users\31020\source\repos\Interface_implementation\Interface_implementation\bin\Debug\net6.0\Interface_implementation.dll
+C:\Users\31020\source\repos\Interface_implementation\Interface_implementation\bin\Debug\net6.0\Interface_implementation.pdb
+C:\Users\31020\source\repos\Interface_implementation\Interface_implementation\obj\Debug\net6.0\Interface_implementation.csproj.AssemblyReference.cache
+C:\Users\31020\source\repos\Interface_implementation\Interface_implementation\obj\Debug\net6.0\Interface_implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31020\source\repos\Interface_implementation\Interface_implementation\obj\Debug\net6.0\Interface_implementation.AssemblyInfoInputs.cache
+C:\Users\31020\source\repos\Interface_implementation\Interface_implementation\obj\Debug\net6.0\Interface_implementation.AssemblyInfo.cs
+C:\Users\31020\source\repos\Interface_implementation\Interface_implementation\obj\Debug\net6.0\Interface_implementation.csproj.CoreCompileInputs.cache
+C:\Users\31020\source\repos\Interface_implementation\Interface_implementation\obj\Debug\net6.0\Interface_implementation.dll
+C:\Users\31020\source\repos\Interface_implementation\Interface_implementation\obj\Debug\net6.0\refint\Interface_implementation.dll
+C:\Users\31020\source\repos\Interface_implementation\Interface_implementation\obj\Debug\net6.0\Interface_implementation.pdb
+C:\Users\31020\source\repos\Interface_implementation\Interface_implementation\obj\Debug\net6.0\Interface_implementation.genruntimeconfig.cache
+C:\Users\31020\source\repos\Interface_implementation\Interface_implementation\obj\Debug\net6.0\ref\Interface_implementation.dll
