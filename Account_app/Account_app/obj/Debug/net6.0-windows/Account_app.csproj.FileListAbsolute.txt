@@ -1,0 +1,17 @@
+C:\Users\31020\source\repos\Account_app\Account_app\bin\Debug\net6.0-windows\Account_app.exe
+C:\Users\31020\source\repos\Account_app\Account_app\bin\Debug\net6.0-windows\Account_app.deps.json
+C:\Users\31020\source\repos\Account_app\Account_app\bin\Debug\net6.0-windows\Account_app.runtimeconfig.json
+C:\Users\31020\source\repos\Account_app\Account_app\bin\Debug\net6.0-windows\Account_app.dll
+C:\Users\31020\source\repos\Account_app\Account_app\bin\Debug\net6.0-windows\Account_app.pdb
+C:\Users\31020\source\repos\Account_app\Account_app\obj\Debug\net6.0-windows\Account_app.csproj.AssemblyReference.cache
+C:\Users\31020\source\repos\Account_app\Account_app\obj\Debug\net6.0-windows\Account_app.Account.resources
+C:\Users\31020\source\repos\Account_app\Account_app\obj\Debug\net6.0-windows\Account_app.csproj.GenerateResource.cache
+C:\Users\31020\source\repos\Account_app\Account_app\obj\Debug\net6.0-windows\Account_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31020\source\repos\Account_app\Account_app\obj\Debug\net6.0-windows\Account_app.AssemblyInfoInputs.cache
+C:\Users\31020\source\repos\Account_app\Account_app\obj\Debug\net6.0-windows\Account_app.AssemblyInfo.cs
+C:\Users\31020\source\repos\Account_app\Account_app\obj\Debug\net6.0-windows\Account_app.csproj.CoreCompileInputs.cache
+C:\Users\31020\source\repos\Account_app\Account_app\obj\Debug\net6.0-windows\Account_app.dll
+C:\Users\31020\source\repos\Account_app\Account_app\obj\Debug\net6.0-windows\refint\Account_app.dll
+C:\Users\31020\source\repos\Account_app\Account_app\obj\Debug\net6.0-windows\Account_app.pdb
+C:\Users\31020\source\repos\Account_app\Account_app\obj\Debug\net6.0-windows\Account_app.genruntimeconfig.cache
+C:\Users\31020\source\repos\Account_app\Account_app\obj\Debug\net6.0-windows\ref\Account_app.dll
